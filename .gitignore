@@ -26,6 +26,9 @@
 *.sql
 *.sqlite
 
+# Joe Editor Victim Line
+*~
+
 # OS generated files #
 ######################
 .DS_Store
